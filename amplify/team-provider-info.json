@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mekipedia-dev-143623-authRole",
+            "UnauthRoleArn": "arn:aws:iam::527034694658:role/amplify-mekipedia-dev-143623-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::527034694658:role/amplify-mekipedia-dev-143623-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-mekipedia-dev-143623-deployment",
+            "UnauthRoleName": "amplify-mekipedia-dev-143623-unauthRole",
+            "StackName": "amplify-mekipedia-dev-143623",
+            "StackId": "arn:aws:cloudformation:eu-west-1:527034694658:stack/amplify-mekipedia-dev-143623/83b84050-9f4d-11ea-88f9-02ccbabe1234",
+            "AmplifyAppId": "d2fwa54cxd62ma"
+        },
+        "categories": {
+            "auth": {
+                "mekipediabc885b42": {}
+            }
+        }
+    }
+}
